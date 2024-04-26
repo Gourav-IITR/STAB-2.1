@@ -1,0 +1,5 @@
+
+from SplashScreen import *
+
+splash()
+
